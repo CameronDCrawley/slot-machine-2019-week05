@@ -1,7 +1,9 @@
-Sonic the Hedgehog Slot Machine
+**Sonic the Hedgehog Slot Machine**
+
 A fun, Sonic-themed slot machine game built using HTML, CSS, and JavaScript. Spin the 3 reels, manage your balance, and test your luck to hit the jackpot
 
-Features
+**Features**
+
 Starting Balance: Begin with $1,000 in your wallet.
 
 2 Betting Options:
@@ -39,7 +41,8 @@ No Match: Your bet is lost to the house ("The house always wins").
 
 Out of Funds? If your balance drops below your chosen bet, you'll need to reevaluate your budget before playing again.
 
-Code Overview
+**Code Overview**
+
 balance: Tracks current funds (starts at 1000).
 
 symbols: Array storing file paths to symbol images.
